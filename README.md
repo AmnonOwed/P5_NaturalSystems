@@ -9,37 +9,36 @@ Code examples are written for Processing 1.5.1. and/or Processing 2.0b9.
 
 Relevant keywords for possible future content of this repo include the following:
 
-- [ ] Algorithmic Botany
-- [ ] Biomimicry
-- [ ] Emergence
-- [ ] Evolutionary Computing
-- [ ] Flocking
-- [ ] Flow Fields
-- [ ] Form-Finding
-- [ ] Fractal Modelling
-- [ ] Genetic Algorithms
-- [ ] Laplacian Growth
-- [ ] Lindenmayer-Systems
-- [ ] Morphogenesis
-- [ ] Procedural Geometry
-- [ ] Reaction-Diffusion
-- [ ] Self-Organization
+- [Algorithmic Botany](http://algorithmicbotany.org/papers/)
+- [Biomimicry](http://en.wikipedia.org/wiki/Biomimicry)
+- [Emergence](http://en.wikipedia.org/wiki/Emergence)
+- [Evolutionary Computing](http://en.wikipedia.org/wiki/Evolutionary_computation)
+- [Flocking](http://en.wikipedia.org/wiki/Flocking_%28behavior%29)
+- [Flow Fields](http://en.wikipedia.org/wiki/Vector_field)
+- [Form-Finding](http://en.wikipedia.org/wiki/Stretched_grid_method)
+- [Fractal Modelling](http://en.wikipedia.org/wiki/Fractal)
+- [Genetic Algorithms](http://en.wikipedia.org/wiki/Genetic_algorithm)
+- Laplacian Growth
+- [Lindenmayer-Systems](http://en.wikipedia.org/wiki/L-system)
+- [Morphogenesis](http://en.wikipedia.org/wiki/Morphogenesis)
+- [Reaction-Diffusion](http://en.wikipedia.org/wiki/Reaction-diffusion)
+- [Self-Organization](http://en.wikipedia.org/wiki/Self-Organization)
 
 Natural Phenomena that I am interested in include the following:
 
-- [ ] Breaking Glass
-- [ ] Clouds
-- [ ] Crystalline
-- [ ] Depth Of Field
-- [ ] Electricity
-- [ ] Flowers
-- [ ] Fog
-- [ ] Glow
-- [ ] Landscape
-- [ ] Lightning
-- [ ] Molecular Structures
-- [ ] Parallax
-- [ ] Reflection & Refraction
-- [ ] Snow
-- [ ] Trees
-- [ ] Volumetric Light Scattering
+- Breaking Glass
+- Clouds
+- [Crystalline](http://en.wikipedia.org/wiki/Crystals)
+- [Depth Of Field](http://en.wikipedia.org/wiki/Depth_of_field)
+- Electricity
+- Flowers
+- Fog
+- Glow
+- Landscape
+- [Lightning](http://en.wikipedia.org/wiki/Lightning)
+- [Molecular Structures](http://en.wikipedia.org/wiki/Molecular_structures)
+- [Parallax](http://en.wikipedia.org/wiki/Parallax)
+- Reflection & Refraction
+- Snow
+- Trees
+- [Volumetric Light Scattering](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch13.html)
