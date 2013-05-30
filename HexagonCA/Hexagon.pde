@@ -41,7 +41,7 @@ class Hexagon {
   
   // calculate the new color based on a completely arbitrary set of 'rules'
   // this could be anything, right now it's this, which makes the CA pretty dynamic
-  // if you tweak this in the wrong way you quicly end up with boring static states
+  // if you tweak this in the wrong way you quickly end up with boring static states
   void calculateNewColor() {
     float avgColor = averageColor(); // get the average of the neighbours (see other method)
     float tmpColor = currentColor;
