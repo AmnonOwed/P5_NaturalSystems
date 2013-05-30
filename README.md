@@ -42,3 +42,8 @@ Natural Phenomena that I am interested in include the following:
 - Snow
 - Trees
 - [Volumetric Light Scattering](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch13.html)
+
+Sketches that are currently in this repo:
+
+####HexagonCA
+2D Cellular Automata on a hexagonal grid and visualized using the HSB color space.
