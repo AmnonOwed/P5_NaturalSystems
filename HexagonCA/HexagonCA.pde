@@ -23,6 +23,7 @@
  SPACE = randomly set the hexagonRadius and re-initialize the whole grid (may take some time)
 
  Built with Processing 1.5.1.
+ Compatible with Processing 2.0+
 
 */
 

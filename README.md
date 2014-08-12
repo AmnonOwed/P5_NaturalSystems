@@ -5,7 +5,7 @@ This repo will contain all the code experiments that fall within my Natural Syst
 
 A huge source of inspiration for this repo is the book [Nature of Code](http://natureofcode.com/book/) by Daniel Shiffman.
 
-Code examples are written for Processing 1.5.1. and/or Processing 2.0b9.
+Code examples are written for Processing 2.0+
 
 Relevant keywords for possible future content of this repo include the following:
 
