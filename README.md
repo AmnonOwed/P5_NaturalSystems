@@ -11,7 +11,6 @@ Relevant keywords for possible future content of this repo include the following
 
 - [Algorithmic Botany](http://algorithmicbotany.org/papers/)
 - [Biomimicry](http://en.wikipedia.org/wiki/Biomimicry)
-- [Coral](http://en.wikipedia.org/wiki/Coral)
 - [Emergence](http://en.wikipedia.org/wiki/Emergence)
 - [Evolutionary Computing](http://en.wikipedia.org/wiki/Evolutionary_computation)
 - [Flocking](http://en.wikipedia.org/wiki/Flocking_%28behavior%29)
@@ -20,10 +19,7 @@ Relevant keywords for possible future content of this repo include the following
 - [Fractal Modelling](http://en.wikipedia.org/wiki/Fractal)
 - [Genetic Algorithms](http://en.wikipedia.org/wiki/Genetic_algorithm)
 - [Greeble](http://en.wikipedia.org/wiki/Greeble)
-- [Kelp](http://en.wikipedia.org/wiki/Kelp)
 - Laplacian Growth
-- [Leaves](http://en.wikipedia.org/wiki/Leaves)
-- [Lichen & Lace Lichen](http://en.wikipedia.org/wiki/Lichen)
 - [Lindenmayer-Systems](http://en.wikipedia.org/wiki/L-system)
 - [Morphogenesis](http://en.wikipedia.org/wiki/Morphogenesis)
 - [Reaction-Diffusion](http://en.wikipedia.org/wiki/Reaction-diffusion)
@@ -33,13 +29,17 @@ Natural Phenomena that I am interested in include the following:
 
 - Breaking Glass
 - Clouds
+- [Coral](http://en.wikipedia.org/wiki/Coral)
 - [Crystalline](http://en.wikipedia.org/wiki/Crystals)
 - [Depth Of Field](http://en.wikipedia.org/wiki/Depth_of_field)
 - Electricity
 - Flowers
 - Fog
 - Glow
+- [Kelp](http://en.wikipedia.org/wiki/Kelp)
 - Landscape
+- [Leaves](http://en.wikipedia.org/wiki/Leaves)
+- [Lichen & Lace Lichen](http://en.wikipedia.org/wiki/Lichen)
 - [Lightning](http://en.wikipedia.org/wiki/Lightning)
 - [Molecular Structures](http://en.wikipedia.org/wiki/Molecular_structures)
 - [Parallax](http://en.wikipedia.org/wiki/Parallax)
